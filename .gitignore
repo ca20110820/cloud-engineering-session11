@@ -1,0 +1,21 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform provider plugins and modules
+.terraform/
+.terraform.lock.hcl
+
+# Local variable files (e.g. secrets, environment-specific configs)
+*.tfvars
+*.tfvars.json
+
+# IDE-specific files
+.vscode/
+
+# Terraform workspace files
+*.tfstate.d/
+
+# Logs and temporary files
+*.log
+*.tmp

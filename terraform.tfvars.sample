@@ -1,0 +1,6 @@
+resource_group_name = "FWvnet"
+location            = "East US"
+admin_username      = "adminuser"
+admin_password      = "ADMIN_STRONG_PASSWORD"
+alert_email         = "YOUR_EMAIL"
+subscription_id     = "YOUR_SUBSCRIPTION_ID"
